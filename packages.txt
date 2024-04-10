@@ -1,0 +1,8 @@
+google-api-python-client
+imgaug
+tqdm
+opencv-python
+pandas
+matplotlib
+seaborn
+tensorflow
